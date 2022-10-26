@@ -1,0 +1,9 @@
+{
+	"name": "datfctory-etl",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0fe9c2b8-d95a-4f4a-bbed-253ca8708805",
+		"tenantId": "53d6db44-e5da-4499-a80d-8e8b659974d7"
+	}
+}
